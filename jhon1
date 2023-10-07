@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página con Imagen</title>
+</head>
+<body>
+    <header>
+        <h1>Cycle of water</h1>
+    </header>
+
+    <main>
+        <section>
+            <h2>Agua H20</h2>
+            <img src="../IMAGENNSA/1.jpg" alt="">
+            <h2>The water is vital for subsistence</h2>
+            <h2>So in this webpage we are going to explore it a little bit</h2>
+            <img src="../IMAGENNSA/2.jpg" alt="">
+            <h2>The water </h2>
+            <img src="../IMAGENNSA/3.jpg" alt="">
+            <h2>The logo </h2>
+            <img src="../IMAGENNSA/imagen.png" alt="">
+        
+        </section>
+    </main>
+</body>
+</html>
